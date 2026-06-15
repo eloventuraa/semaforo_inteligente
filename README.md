@@ -1,4 +1,4 @@
-# 🚦 Semáforo Inteligente com Acessibilidade (Sensor de Presença)
+# 🚦 Semáforo Inteligente com Acessibilidade 
 
 Este projeto é a simulação de um **Semáforo Inteligente** focado em inclusão e mobilidade urbana. Através de um **sensor de presença**, o sistema detecta automaticamente quando um pedestre está aguardando na calçada e estende o tempo de travessia em **+25 segundos**, garantindo mais segurança e tranquilidade para pessoas com deficiência visual e pessoas autistas.
 
