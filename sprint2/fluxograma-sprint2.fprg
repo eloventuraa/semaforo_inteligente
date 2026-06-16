@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Dev_1o_Ano"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-06-02 12:03:18 "/>
+        <attribute name="created" value="RGV2XzFvX0FubztETlMxMTgxMjYwODIwOzIwMjYtMDYtMDI7IjExOjI0OjM3ICI7Mjg1Mg=="/>
+        <attribute name="edited" value="RGV2XzFvX0FubztETlMxMTgxMjYwODIwOzIwMjYtMDYtMDI7IjEyOjAzOjE4ICI7MTsyOTU3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="tempoPrioridade, tempoPadrao, cartao, tapeteTatil" type="Integer" array="False" size=""/>
+            <assign variable="tempoPrioridade" expression="25"/>
+            <assign variable="tempoPadrao" expression="10"/>
+            <output expression="&quot;Carros: verde Pedestre: vermelho&quot;" newline="True"/>
+            <output expression="&quot;Voc&#234; tem o cart&#227;o? (1-Sim/0-N&#227;o)&quot;" newline="True"/>
+            <input variable="cartao"/>
+            <if expression="cartao == 1">
+                <then>
+                    <output expression="&quot;Ficou mais de 3 segundos no tapete? (1-Sim/0-N&#227;o)&quot;" newline="False"/>
+                    <input variable="tapeteTatil"/>
+                    <if expression="tapeteTatil == 1">
+                        <then>
+                            <output expression="&quot;Farol aberto,voc&#234; tem 25 segundos para atravessar&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Se voc&#234; realmente quer atravessar fique mais de 3 segundos no tapete&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <output expression="&quot;Esperar tempo padr&#227;o&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
