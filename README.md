@@ -35,7 +35,7 @@ O projeto foi montado em uma maquete cenográfica para demonstrar a aplicação 
 
 ## 🛠️ Componentes Utilizados
 
-* 1x Placa Arduino
+* 1x Placa Arduino UNO
 * 1x Protonboard
 * 1x Sensor de Presença (Ultrassônico ou Sensor de Movimento PIR)
 * 1x Módulo semáforo led para arduino
