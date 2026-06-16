@@ -44,18 +44,18 @@ O projeto foi montado em uma maquete cenográfica para demonstrar a aplicação 
 
 ---
 
-👥 Equipe do Projeto
+## 👥 Equipe do Projeto
 O desenvolvimento deste projeto foi realizado pelo seguinte time:
 
-👑 Samilly Matos — Product Owner (P.O)
+👑 **Samilly Matos** — Product Owner (P.O)
 
-📋 Vitor Andrade — Scrum Master
+📋 **Vitor Andrade** — Scrum Master
 
-💻 Eloísa Ventura — Desenvolvedora
+💻 **Eloísa Ventura** — Desenvolvedora
 
-💻 Enzo Ferrari — Desenvolvedor
+💻 **Enzo Ferrari** — Desenvolvedor
 
-💻 Tainá Silveira — Desenvolvedora
+💻 **Tainá Silveira** — Desenvolvedora
 
 ---
 
