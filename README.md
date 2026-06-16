@@ -42,7 +42,20 @@ O projeto foi montado em uma maquete cenográfica para demonstrar a aplicação 
 * 1x Buzzer (para o sinal sonoro de acessibilidade)
 * Cabos e resistores para as conexões
 
+---
 
+👥 Equipe do Projeto
+O desenvolvimento deste projeto foi realizado pelo seguinte time:
+
+👑 Samilly Matos — Product Owner (P.O)
+
+📋 Vitor Andrade — Scrum Master
+
+💻 Eloísa Ventura — Desenvolvedora
+
+💻 Enzo Ferrari — Desenvolvedor
+
+💻 Tainá Silveira — Desenvolvedora
 
 ---
 
